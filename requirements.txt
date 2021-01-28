@@ -1,0 +1,10 @@
+pillow
+sqlite3
+socket
+db-sqlite3
+webbrowser
+pyttsx3
+tkcalender
+wikipedia
+google-search
+beautifulsoup4
